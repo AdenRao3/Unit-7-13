@@ -2,10 +2,10 @@
 --
 -- main.lua
 --
--- Created by: Mr. Coxall
--- Created on: Apr 2018
+-- Created by: Aden Rao
+-- Created on: May 7, 2019
 -- 
--- This file makes is the starting point for a multi-scene game
+-- This file is a program with a slash screen, a game menu and a workable level 5 which you can click and go to level 5.
 -----------------------------------------------------------------------------------------
 
 -- hide the status bar
